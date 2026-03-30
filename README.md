@@ -87,56 +87,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="assets/Homepage.jpeg" width="90%" />
-
-### 🤖 AI-Based Smart Internship Allocation System
-AI-powered system that intelligently matches students with internships using  
-**skill fit, preferences, and scoring algorithms**.
-
-🔹 AI • ML • Node.js • MySQL  
-🔹 Fair & Transparent Allocation  
-
-<a href="https://github.com/MrRohit2309/AI-Based-Smart-Internships-Allocation-System">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="assets/Eventify Homepage.jpeg" width="90%" />
-
-### 🎉 Eventify – College Event Management Platform
-Role-based platform to manage **college events, teams, and registrations**.
-
-🔹 Full Stack • Role-Based Access  
-🔹 Organizer • Teacher • Student Panels  
-
-<a href="https://github.com/MrRohit2309/Event-Management">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-
 ## 🌱 Currently Learning
 - Data Structures & Algorithms (DSA)
 - Advanced Java
@@ -164,7 +114,7 @@ Role-based platform to manage **college events, teams, and registrations**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrRohit2309&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rohittt2210&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
