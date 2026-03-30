@@ -29,7 +29,7 @@
 <h3 align="center">B.Tech Computer Engineering Student | AI • ML • Full Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrRohit2309&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rohittt2210&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -137,7 +137,7 @@
 _"Build skills so strong that opportunities chase you."_
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrRohit2309&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rohittt2210&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
